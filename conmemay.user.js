@@ -14,5 +14,4 @@
 // @connect      api.kolosal.ai
 // @connect      *
 // @cun-at       document-end
-// @icon         https://cdn.discordapp.com/avatars/1001691686721835090/8c9770820eac0449217292ed718b3700.png
 // ==/UserScript==
