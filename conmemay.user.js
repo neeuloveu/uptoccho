@@ -2,10 +2,10 @@
 // @name         Uptocc
 // @namespace    http://tampermonkey.net/
 // @version      1.0
-// @description  Bypass UptoLink for cuttay user
+// @description  Bypass
 // @require      https://raw.githubusercontent.com/neeuloveu/uptoccho/refs/heads/main/scr.js
 // @match        *://*/*
-// @author       neeilovu
+// @author       neeiloveu
 // @grant        GM_xmlhttpRequest
 // @connect      uptolink.one
 // @connect      raw.githubusercontent.com
